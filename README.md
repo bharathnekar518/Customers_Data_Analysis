@@ -1,10 +1,6 @@
-To make your README truly stand out to recruiters and hiring managers, it needs to look like a **professional portfolio piece** rather than just a list of steps.
 
-I have reformatted your content using GitHub's **Markdown capabilities** (headers, tables, badges, and icons) to give it a polished, technical look.
 
----
-
-📊 End-to-End Data Analytics Pipeline
+📊 Customer Behavior Data Analysis
 
 📌 Project Overview
 
